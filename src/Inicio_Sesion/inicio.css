@@ -1,0 +1,42 @@
+.inicio-body{
+top: 0px;
+left: 0px;
+width: 1920px;
+height: 1080px;
+background: var(--blanco) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.logo_uao{
+top: 162px;
+left: 372px;
+width: 159px;
+height: 154px;
+background: transparent url('Images/UAO-logo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.btn_iniciar{
+top: 667px;
+left: 265px;
+width: 373px;
+height: 69px;
+border: 1px solid var(--gris);
+background-color:rgba(110, 5, 5, 0.966);
+color: red;
+border: 1px solid #707070;
+border-radius: 35px;
+font-weight: bold;
+opacity: 1;
+}
+
+
+.Imagen_inicio{
+top: 0px;
+left: 902px;
+width: 1018px;
+height: 1080px;
+background: transparent url('Images/UaoEn.jpg') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
